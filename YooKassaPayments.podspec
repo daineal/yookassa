@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.ios.library = 'z'
 
   s.ios.dependency 'YooMoneyCoreApi', '~> 1.9.0'
-  s.ios.dependency 'FunctionalSwift', '~> 1.2.0'
+#   s.ios.dependency 'FunctionalSwift', '~> 1.2.0'
   s.ios.dependency 'YooKassaPaymentsApi', '~> 2.3.0'
   s.ios.dependency 'YooKassaWalletApi', '~> 2.3.0'
   s.ios.dependency 'YandexMobileMetrica/Dynamic', '~> 3.12.0'
